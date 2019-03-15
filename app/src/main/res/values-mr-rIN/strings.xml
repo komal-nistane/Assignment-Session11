@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="message3">मी ठीक आहे. </string>
+    <string name="message1">" हॅलो अँड्रॉइड!"</string>
+    <string name="message2">तू कसा आहेस ?</string>
+</resources>

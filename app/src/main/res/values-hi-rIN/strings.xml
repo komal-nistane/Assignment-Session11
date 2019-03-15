@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationDemo</string>
+    <string name="message1">"हैलो एंड्रॉइड!"</string>
+    <string name="message2">क्या हाल है?</string>
+    <string name="message3">"मैं ठीक हूँ."</string>
+</resources>
